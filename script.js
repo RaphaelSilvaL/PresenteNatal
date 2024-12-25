@@ -52,6 +52,6 @@ button.addEventListener("click", () => {
 
     // Mostra o texto palavra por palavra
     setTimeout(() => {
-        showText("Ninguém entende como tudo aconteceu tão rápido, nem mesmo a gente, mas você foi o meu inesperado mais esperado! Feliz Natal Moça da Fármcia!!!", 350);
+        showText("Ninguém entende como tudo aconteceu tão rápido, nem mesmo a gente, mas você foi o meu inesperado mais esperado! Feliz Natal Moça da Fármacia!!!", 350);
     }, 1000);
 });
